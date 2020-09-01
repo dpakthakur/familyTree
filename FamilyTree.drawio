@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T06:27:45.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="jz3D4MXLV8fbhkQLUvyi" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T06:32:22.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="sEZ4NWlojCIkgDflBw5s" version="13.6.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1729" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="FDAv1wYGj09VSfgf0g2c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FDAv1wYGj09VSfgf0g2c-2" target="FDAv1wYGj09VSfgf0g2c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Lakhu Singh" name="Evan Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FDAv1wYGj09VSfgf0g2c-2">
+        <UserObject label="Lakha Singh" name="Evan Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="FDAv1wYGj09VSfgf0g2c-2">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="1170" y="50" width="180" height="70" as="geometry" />
           </mxCell>
